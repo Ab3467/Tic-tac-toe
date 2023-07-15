@@ -1,3 +1,6 @@
+![Screenshot (42)](https://github.com/Ab3467/Tic-tac-toe/assets/138695838/7b7aa69a-606e-40e8-a159-d7133c023a07)
+
+
 # Tic-Tac-Toe Game
 This is a simple implementation of the classic game Tic-Tac-Toe using HTML, CSS, and JavaScript. It allows two players to take turns and compete against each other on a 3x3 grid.
 
